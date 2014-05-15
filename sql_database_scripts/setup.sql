@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Apr 27, 2014 at 10:55 PM
+-- Generation Time: May 15, 2014 at 10:11 AM
 -- Server version: 5.5.29
 -- PHP Version: 5.4.10
 
@@ -141,8 +141,8 @@ CREATE TABLE `mc_block_log` (
   `mc_item_id` int(11) NOT NULL,
   `mc_block_log_item_qty` int(11) NOT NULL,
   `mc_block_log_cord_x` float NOT NULL,
-  `mc_block_log_cord_y` float NOT NULL,
-  `mc_block_log_cord_z` int(11) NOT NULL,
+  `mc_block_log_cord_y` int(11) NOT NULL,
+  `mc_block_log_cord_z` float NOT NULL,
   `mc_interaction_type_id` int(11) NOT NULL,
   `mc_block_log_timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`mc_block_log_id`)
@@ -217,7 +217,7 @@ CREATE TABLE `mc_mod_pack` (
 
 CREATE TABLE `mc_mod_to_mod_pack` (
   `mc_mod` int(11) NOT NULL,
-  `mc_server` int(11) NOT NULL,
+  `mc_mod_pack` int(11) NOT NULL,
   `mc_mod_to_mod_pack_timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -256,6 +256,7 @@ CREATE TABLE `mc_server` (
   `mc_server_ip` varchar(15) NOT NULL,
   `mc_server_timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `mc_server_active` tinyint(4) NOT NULL COMMENT '0 = Disabled, 1 = Active',
+  `mc_server_key` varchar(26) NOT NULL,
   PRIMARY KEY (`mc_server_id`),
   UNIQUE KEY `mc_server_name` (`mc_server_name`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
