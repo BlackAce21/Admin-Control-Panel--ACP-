@@ -1,0 +1,21 @@
+[
+{
+  "modid": "AdminControlPanel",
+  "name": "Admin Control Panel",
+  "description": "Forge based admin interface and server suite designed to give Bukkit style functionality to the world of Forge!",
+  "version": "1.0",
+  "credits": "Created by Black_Ace2004, SQL database designed by BlakeDarwinXE, special thanks to any patreon donator or mod tester that helped along the way.",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Black_Ace2004",
+    "BlakeDarwinXE"
+    ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+]
+}
+]

@@ -1,0 +1,45 @@
+[19:32:21] [main/INFO]: Setting user: ForgeDevName
+[19:32:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:32:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Admin Control Panel
+[19:32:28] [Sound Library Loader/INFO]: Sound engine started
+[19:32:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:32:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:32:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Admin Control Panel
+[19:32:29] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:32:30] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:32:30] [Sound Library Loader/INFO]: Sound engine started
+[19:32:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:32:36] [Server thread/INFO]: Generating keypair
+[19:32:37] [Server thread/INFO]: Preparing start region for level 0
+[19:32:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:32:38] [Server thread/INFO]: ForgeDevName[local:E:1ce63dae] logged in with entity id 338 at (238.35403356563728, 74.0, -93.31070613473035)
+[19:32:38] [Server thread/INFO]: ForgeDevName joined the game
+[19:32:52] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Wood at 234 75 -98  the action was LEFT_CLICK_BLOCK
+[19:32:55] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Obsidian at 235 74 -89  the action was LEFT_CLICK_BLOCK
+[19:32:57] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Wood at 240 75 -96  the action was LEFT_CLICK_BLOCK
+[19:33:03] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Wood at 248 75 -112  the action was LEFT_CLICK_BLOCK
+[19:33:08] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a tile.doublePlant.name at 263 73 -119  the action was LEFT_CLICK_BLOCK
+[19:33:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 132 ms
+[19:33:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 135 ms
+[19:33:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 160 ms
+[19:33:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 116 ms
+[19:33:38] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Wood at 231 68 -57  the action was LEFT_CLICK_BLOCK
+[19:33:46] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Wood at 231 67 -38  the action was LEFT_CLICK_BLOCK
+[19:33:51] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Grass at 228 68 -56  the action was LEFT_CLICK_BLOCK
+[19:33:51] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Grass Block at 227 67 -57  the action was LEFT_CLICK_BLOCK
+[19:33:58] [Client thread/INFO]: [CHAT] Player ForgeDevName used a Diamond Pickaxe on a Sugar cane at 233 64 -74  the action was LEFT_CLICK_BLOCK
+[19:34:04] [Server thread/INFO]: Saving and pausing game...
+[19:34:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:34:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:34:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:44:10] [Server thread/INFO]: Saving and pausing game...
+[19:44:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:44:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:44:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:44:11] [Server thread/INFO]: Stopping server
+[19:44:11] [Server thread/INFO]: Saving players
+[19:44:11] [Server thread/INFO]: Saving worlds
+[19:44:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:44:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:44:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:44:13] [Client thread/INFO]: Stopping!
